@@ -1,28 +1,22 @@
-# GACS-Ubuntu-22.04
-This is autoinstall GenieACS For ubuntu version 22.04 (Jammy)
+=========== Virtual Parameter ACS ===============
 
 # Usage
 ```
-sudo su
+apt install git curl -y
 ```
 ```
-git clone https://github.com/botmitranet/GACS
+git clone https://github.com/alijayanet/virtualparameter
 ```
 ```
-cd GACS-Ubuntu-22.04
-```
-```
-chmod +x GACS-Jammy.sh
-```
-```
-sudo apt-get install dos2unix
-```
-```
-dos2unix GACS-Jammy.sh
-```
-```
-bash GACS-Jammy.sh
+sudo mongorestore --db=genieacs --drop virtualparameter
 ```
 
-# Full Tutorial
-- https://youtu.be/p_UNuq0rfg0
+============== info 081947215703 ==================
+
+user login Web ui ACS
+
+user : admin
+
+pass : admin
+
+====================================================
