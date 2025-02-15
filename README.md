@@ -6,7 +6,7 @@ This is autoinstall GenieACS For ubuntu version 22.04 (Jammy)
 sudo su
 ```
 ```
-git clone https://github.com/safrinnetwork/GACS-Ubuntu-22.04
+git clone https://github.com/botmitranet/GACS
 ```
 ```
 cd GACS-Ubuntu-22.04
